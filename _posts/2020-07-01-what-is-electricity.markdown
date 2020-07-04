@@ -2,7 +2,7 @@
 layout: post
 title:  "What is electricity?"
 categories: Electrical_engineering
-tags: Electromagnetism
+tags: Electromagnetism Electrical_engineering
 comments: true
 ---
 
