@@ -41,7 +41,7 @@ https://www.youtube.com/watch?v=yc2-363MIQs
 -  &nbsp; Conductors consist of atoms with weakly bound outer electrons.
 2. &nbsp; If the free electrons are gone, this object is left with more protons than electrons and, thus, becomes positively charged. The object with more electrons become negatively charged. All charged objects have an imbalance of charge - either more electrons than protons or vice versa.
 -  &nbsp; Static build-up is likely to occur when one of the materials involved is an insulator.
-3. &nbsp; Nature tends toward balance. When positively charged object contacts with a negatively charged object, the free electrons will move to the object that they are most needed to restore the neutral charge equilibrium. The quick movement of electrons is called electrostatic discharge.
+3. &nbsp; Nature tends toward balance. When positively charged object contacts with a negatively charged object, the free electrons will move to the object that they are most needed to restore the neutral charge equilibrium. The quick movement of electrons is called elect	rostatic discharge.
 <br/>
 <br/>
 
