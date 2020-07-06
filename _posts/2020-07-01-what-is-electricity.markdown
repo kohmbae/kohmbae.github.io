@@ -2,14 +2,14 @@
 layout: post
 title:  "What is electricity?"
 categories: Electrical_engineering
-tags: Electromagnetism Electrical_engineering
+tags: Electromagnetism
 comments: true
 ---
 
 - Contents
 	- [What is electricity?](#What-is-electricity?)  
 	- [How do we increase electrical energy?](#How-do-we-increase-electrical-energy?)
-	- [Which component of a generator does get electrical energy?](#Which-component-of-a-generator-does-get-electrical-energy?)  
+	- [Which component of a generator does get voltage?](#Which-component-of-a-generator-does-get-voltage?)  
 <br/>
 <br/>
 
@@ -20,6 +20,8 @@ Electricity is the presence and flow of electric charge.
 Electricity is a transmission medium for electrical energy.
 
 Electrical Energy is a form of energy that we use to operate electrical loads.
+
+E(Electric potential energy) = Q(charge)V(Potential difference)
 <br/>
 <br/>
 
@@ -53,6 +55,9 @@ Dynamic electricity refers to the flow of electric charges of through a conducto
 <br/>
 <br/>
 
+#### Which component of a generator does get voltage?
+A generator works by a changing magnetic field inducing a voltage into a coil of wire.
+![What_is_electrcity1](https://kohmbae.github.io/assets/img/review/What_is_electrcity1.jpg)
 
 
 ### Reference  
