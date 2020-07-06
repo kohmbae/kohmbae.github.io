@@ -7,13 +7,12 @@ comments: true
 ---
 
 - Contents
-	- [What is electricity?](#What-is-electricity?)  
-	- [How do we increase electrical energy?](#How-do-we-increase-electrical-energy?)
-	- [Which component of a generator does get voltage?](#Which-component-of-a-generator-does-get-voltage?)  
+	- [What is electricity?](#what-is-electricity)  
+	- [Which component of a generator does get voltage?](#which-component-of-a-generator-does-get-voltage)  
 <br/>
 <br/>
 
-## What is electricity?		
+## <span style="color:red">What is electricity?</span>		
 ---  
 Electricity is the presence and flow of electric charge.
 
@@ -55,7 +54,8 @@ Dynamic electricity refers to the flow of electric charges of through a conducto
 <br/>
 <br/>
 
-#### Which component of a generator does get voltage?
+## <span style="color:red">Which component of a generator does get voltage?</span>
+---
 A generator works by a changing magnetic field inducing a voltage into a coil of wire.
 ![What_is_electrcity1](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/What_is_electrcity1.jpg)
 
