@@ -57,7 +57,7 @@ Dynamic electricity refers to the flow of electric charges of through a conducto
 
 #### Which component of a generator does get voltage?
 A generator works by a changing magnetic field inducing a voltage into a coil of wire.
-![What_is_electrcity1](https://kohmbae.github.io/assets/img/review/What_is_electrcity1.jpg)
+![What_is_electrcity1](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/What_is_electrcity1.jpg)
 
 
 ### Reference  
