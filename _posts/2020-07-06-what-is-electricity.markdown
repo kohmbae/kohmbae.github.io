@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What is electricity?"
+title:  "1. What is electricity?"
 categories: Electrical_engineering
 tags: Electromagnetism
 comments: true
@@ -55,7 +55,7 @@ Electric current is the rate of flow of electric charges.
 ## <span style="color:red">Which component of a generator does get voltage?</span>
 ---
 A generator works by a changing magnetic field inducing a voltage into a coil of wire.
-![What_is_electrcity1](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/What_is_electrcity1.jpg)
+![1-1](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/1-1.jpg)
 
 
 ### Reference  

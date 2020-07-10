@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Electric work<-Electric force<-Electric charge<-Electrification<-External energy"
+title:  "2. Electric work<-Electric force<-Electric charge<-Electrification<-External energy"
 categories: Electrical_engineering
 tags: Electromagnetism
 comments: true
