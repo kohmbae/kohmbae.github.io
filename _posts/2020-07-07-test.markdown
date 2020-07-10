@@ -113,8 +113,16 @@ Electric potential = k * charge that creates the electric field / distance from 
 <br/>
 <br/>
 <span style="color:red">Voltage</span> = Electric potential difference
+<br/>
+<br/>
 ![2-2](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/2-2.jpg)
+<br/>
+<br/>
+<br/>
 ![2-3](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/2-3.jpg)
+<br/>
+<br/>
+<br/>
 ![2-4](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/2-4.jpg)
 
 ### Reference  
