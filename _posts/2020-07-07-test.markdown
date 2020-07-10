@@ -81,10 +81,6 @@ The way charges talk to each other is with the electric field.
 - The charge Q2 does not have to know the existence of charge Q1. The charge Q2 only concerns about existing electric field.
 - The electric field at a point in space is defined to be the amount of electric force per charge exerted at that point in space. So, the definition of electric field is amount of electric force per charge. In other words, electric field tells you how many newtons of force you would get per coulomb, which is SI unit of electric charge.
 ![2-1](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/2-1.jpg)  
-<br/>
-<br/>
-<br/>
-
 
 ## <span style="color:red">What is electric potential energy?</span>
 ---
@@ -118,9 +114,7 @@ Electric potential = k * charge that creates the electric field / distance from 
 ![2-2](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/2-2.jpg)
 <br/>
 <br/>
-<br/>
 ![2-3](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/2-3.jpg)
-<br/>
 <br/>
 <br/>
 ![2-4](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/2-4.jpg)
