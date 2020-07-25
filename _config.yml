@@ -13,12 +13,12 @@ url:                 https://kohmbae.github.io
 baseurl:             ""
 
 # A very short description of your page
-tagline:             "Interested in studying renewable energy and electricity :)"
+tagline:             "Study notes for Electrical Engineering"
 
 # A short description of the page, used in the sidebar and as fallback for the meta description tag.
 # Markdown enabled, but don't use more than one paragraph (enforced by `>`)
 description:         >
-  Aspiring Electrical Engineer
+  Electrical Engineer student
 
 # This should be the same author as first entry in `_data/authors.yml`
 author:
