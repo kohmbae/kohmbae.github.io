@@ -12,7 +12,7 @@ comments: true
 	- [What is electrostatic force?](#what-is-electrostatic-force)  
 	- [What is electric field?](#what-is-electric-field)
 	- [What is electric potential energy?](#what-is-electric-potential-energy)
-	- [Electric potential and voltage](#Electric potential and voltage)
+	- [Electric potential and voltage](#electric potential and voltage)
 <br/>
 
 ## <span style="color:red">Simple overview of force, work, energy, and power</span>		
