@@ -28,7 +28,9 @@ The total of the electric flux out of a closed surface is equal to the charge en
 <br/>
 <br/>
 <br/>
+
 ## <span style="color:red">Sample problem, divergence theorem, and Maxwell's first equation</span>
+---
 ![3-4](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-4.jpg)  
 ![3-5](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-5.jpg)  
 ![3-6](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-6.jpg)  
