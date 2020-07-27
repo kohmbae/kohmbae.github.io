@@ -2,7 +2,7 @@
 layout: post
 title:  "Overview of Electromagnetism"
 categories: Electrical_engineering
-tags: Electromagnetism
+tags: Overview
 comments: true
 ---
 <body>
