@@ -8,8 +8,8 @@ comments: true
 
 - Contents
 	- [Gauss's Law, instead of Coulomb's Law, to calculate the Electric field](#gauss's-law,-instead-of-coulomb's-law,-to-calculate-the-electric-field)
-	- [Sample problem, divergence theorem, and Maxwell's first equation](#sample-problem,-divergence-theorem,-and-maxwell's-first-equation)
-	- [Corona phenomenon, Critical disruptive voltage](#corona phenomenon,-critical-disruptive-voltage)
+	- [Sample problem, divergence theorem, and Maxwell's first equation](#sample-problem-divergence-theorem-and-maxwell's-first-equation)
+	- [Corona phenomenon, Critical disruptive voltage](#corona-phenomenon-critical-disruptive-voltage)
 	- [Electric potential gradient](#electric-potential-gradient)
 
 <br/>
@@ -34,8 +34,8 @@ The total of the electric flux out of a closed surface is equal to the charge en
 <br/>
 
 ## <span style="color:red">Sample problem, divergence theorem, and Maxwell's first equation</span>
-Noticeable terms: Spherical coordinates, Cylindrical coordinates, Divergence theorem, Maxwell's first equation, and Curl
 ---
+Noticeable terms: Spherical coordinates, Cylindrical coordinates, Divergence theorem, Maxwell's first equation, and Curl
 ![3-4](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-4.jpg)  
 ![3-5](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-5.jpg)  
 ![3-6](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-6.jpg)  
@@ -46,8 +46,11 @@ Noticeable terms: Spherical coordinates, Cylindrical coordinates, Divergence the
 ## <span style="color:red">Corona phenomenon, Critical disruptive voltage</span>
 ---
 https://en.wikipedia.org/wiki/Corona_discharge
+<br/>
 A corona discharge is an electrical discharge brought on by the ionization of a fluid such as air surrounding a conductor that is electrically charged. Spontaneous corona discharges occur naturally in high-voltage systems unless care is taken to limit the electric field strength. A corona will occur when the strength of the electric field (potential gradient) around a conductor is high enough to form a conductive region, but not high enough to cause electrical breakdown or arcing to nearby objects. It is often seen as a bluish glow in the air adjacent to pointed metal conductors carrying high voltages, and emits light by the same property as a gas discharge lamp.
 - Simply, corona discharge is the current discharge in the air.
+<br/>
+<br/>
 
 Critical Disruptive Voltage is the minimum phase to neutral voltage required for the Corona discharge, which is the breakdown of insulating properties of air.
 
