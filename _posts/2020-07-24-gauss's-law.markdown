@@ -9,6 +9,9 @@ comments: true
 - Contents
 	- [Gauss's Law, instead of Coulomb's Law, to calculate the Electric field](#gauss's-law,-instead-of-coulomb's-law,-to-calculate-the-electric-field)
 	- [Sample problem, divergence theorem, and Maxwell's first equation](#sample-problem,-divergence-theorem,-and-maxwell's-first-equation)
+	- [Corona phenomenon, Critical disruptive voltage](#corona phenomenon,-critical-disruptive-voltage)
+	- [Electric potential gradient](#electric-potential-gradient)
+
 <br/>
 
 ## <span style="color:red">Gauss's Law, instead of Coulomb's Law, to calculate the Electric field</span>		
@@ -50,7 +53,7 @@ Critical Disruptive Voltage is the minimum phase to neutral voltage required for
 
 ![3-8](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-8.jpg)
 ![3-9](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-9.jpg)
-![3-10](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-10.jpg) 
+![3-10](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-10.jpg)
 <br/>
 <br/>
 
