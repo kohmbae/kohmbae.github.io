@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "Electromagnetism"
+title:  "Overview of Electromagnetism"
 categories: Electrical_engineering
-tags: Overview
+tags: Electromagnetism
 comments: true
 ---
 <body>
-	<p>Download the pdf file that summarized discussed topics related to. <a href="https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/Electromagnetism.pdf">Electromagnetism</a>.</p>
+	<p>Download <a href="https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/Electromagnetism.pdf"><span style="color:blue">Electromagnetism</span></a>.</p>
+  <embed src="https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/Electromagnetism.pdf" width="600px" height="500px" />
 </body>
