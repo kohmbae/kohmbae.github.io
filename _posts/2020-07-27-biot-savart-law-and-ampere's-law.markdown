@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "5. Bio-Savart Law, Ampere's Law, Stokes' theorem, Maxwell's second equation, current continuity equation, and displacement current"
+title:  "5. Biot-Savart Law, Ampere's Law, Stokes' theorem, Maxwell's second equation, current continuity equation, and displacement current"
 categories: Electrical_engineering
 tags: Electromagnetism
 comments: true
@@ -8,10 +8,10 @@ comments: true
 
 - Contents
   - [Terms](#terms)
-	- [Bio-Savart Law](#bio-Savart-law)
-	- [Ampere's Law](#ampere's-law)
-	- [Strokes' theorem, Maxwell's second equation, and current continuity equation](#stokes'-theorem-and-maxwell's-second-equation-and-current-continuity-equation)
-	- [Displacement current](#displacement-current)
+  - [Biot-Savart Law](#biot-savart-law)
+  - [Ampere's Law](#amperes-law)
+  - [Stokes' theorem, Maxwell's second equation, and current continuity equation](#stokes-theorem,-maxwells-second-equation,-and-current-continuity-equation)
+  - [Displacement current](#displacement-current)
 
 
 
@@ -26,7 +26,7 @@ Magnetomotive force, Magnetic field intensity, Magnetic flux, Magnetic field, Ma
 <br/>
 <br/>
 
-## <span style="color:red">Bio-Savart Law</span>		
+## <span style="color:red">Biot-Savart Law</span>		
 ---
 http://hyperphysics.phy-astr.gsu.edu/hbase/magnetic/Biosav.html
 <br/>
@@ -46,7 +46,7 @@ For a symmetric closed loop, the integral(sum) of the length elements times the 
 <br/>
 <br/>
 
-## <span style="color:red">Strokes' theorem, Maxwell's second equation, and current continuity equation</span>		
+## <span style="color:red">Stokes' theorem, Maxwell's second equation, and current continuity equation</span>		
 ---
 Stokes' theorem relates a surface integral to a line integral around the boundary of that surface. 	
 ![5-4](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/5-4.jpg)
