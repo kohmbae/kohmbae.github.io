@@ -27,8 +27,13 @@ The total of the electric flux out of a closed surface is equal to the charge en
 
 - Permittivity is a measure of the electric polarizability of a dielectric. Polarizability is the ability to form instantaneous dipoles. Materials with higher permittivity polarizes more, and, therefore, store more energy in the material, when external electric field applied.
 ![3-2](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-2.jpg)
-- Noticeable terms: Polarization, Displacement current, conduction current and drift current
-![3-3](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-3.jpg)  
+- Noticeable terms: Polarization, Electric flux density vector
+, Displacement current, conduction current and drift current,
+- The electric field is created by both free charge and bound charge within the dielectric material.
+- The electric flux density vector is created by free charge only; so, the bound charge within the dielectric material does not affect electric flux density vector.
+![3-3](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-3.jpg)
+![3-13](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-13.jpg)
+-   
 <br/>
 <br/>
 <br/>
@@ -65,7 +70,7 @@ Critical Disruptive Voltage is the minimum phase to neutral voltage required for
 Electric potential gradient is the rate of change of electric potential with respect to displacement, which can be the rate of change of voltage with respect to displacement. The concept of electric potential gradient allows us to get the magnitude of the electric field from the rate of change of voltage.  
 -	When the magnitude of voltage is equal, the cable with the less magnitude of the electric potential gradient at the surface will have less possibility to cause a dielectric breakdown, which means losing the insulation property of surroundings like air.
 ![3-11](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-11.jpg)
-![3-11](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-12.jpg)
+![3-12](https://kohmbae.github.io/assets/img/Electrical_engineering/Electromagnetism/3-12.jpg)
 
 
 ### Reference  
@@ -74,3 +79,4 @@ Electric potential gradient is the rate of change of electric potential with res
 > - https://www.youtube.com/watch?v=j-DYTwmdhgo&list=PLIieCbnTDrMhrN79sjFwlqUa--bUqeOP5&index=2
 > - https://www.youtube.com/watch?v=eX9D_JClQTY&list=PLIieCbnTDrMhrN79sjFwlqUa--bUqeOP5&index=3
 > - https://eng.libretexts.org/Bookshelves/Materials_Science/Supplemental_Modules_(Materials_Science)/Optical_Properties/Dielectric_Polarization
+> - https://studylib.net/doc/8430401/electric-flux-density
