@@ -33,13 +33,12 @@ Work
 <br/>
 Energy
 - The ability or the capacity to do work is called energy
-  - The food that we eat gives us energy to do various activities.
 - Kinetic Energy = Energy of motion
 - Potential Energy = Stored energy
 
 <br/>
 Power
-- Power is the work done in a unit of time.
+- In a circuit, power is the rate at which energy is absorbed or produced within a circuit.
 <br/>
 <br/>
 <br/>
@@ -100,7 +99,7 @@ Electric potential energy = k * charge that creates the electric field * test ch
 https://en.wikipedia.org/wiki/Electric_potential
 <br/>
 <br/>
-An electric potential is the amount of work needed to move a unit of charge from a reference point to a specific point inside the field without producing an acceleration.
+An electric potential is the amount of work needed to move a unit charge from a reference point to a specific point inside the field without producing an acceleration.
 <br/>
 <br/>
 Electric potential = Electric potential energy / test charge

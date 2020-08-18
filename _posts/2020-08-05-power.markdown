@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "2. Power, apparent power, real power, and reactive power"
+categories: Electrical_engineering
+tags: Power
+comments: true
+---
+
+- Contents
+  - [What is power?](#what-is-power)
+  - [RMS](#rms)
+
+<br/>
+
+## <span style="color:red">What is power?</span>		
+---
+In a circuit, power is the rate at which energy is absorbed or produced within a circuit. The capacity to do work is called energy. The source of energy such as a voltage will deliver power, while the connected load will absorb the delivered power.<br/>
+DC power = V * I <br/>
+AC power equations
+![2-1](https://kohmbae.github.io/assets/img/Electrical_engineering/Power/2-1.jpg)
+<br/>
+<br/>
+<br/>
+
+## <span style="color:red">Real power</span>		
+---
+Real power is the power actually used by the resistive load. It is the actual outcome of the electrical system which runs the electrical load. <br/>
+Real power = Average power = the average of the instantaneous power over one full cycle <br/>
+Instantaneous power, p(t) = v(t) * i(t) <br/>
+The active current is linked to the active power, which is the electrical power used or transformed in another form of energy.
+![2-2](https://kohmbae.github.io/assets/img/Electrical_engineering/Power/2-2.jpg)
+<br/>
+<br/>
+<br/>
+
+## <span style="color:red">Reactive power</span>		
+---
+Reactive power does not provide useful work and is not dissipated as heat. However, the reactive power is essential for AC transmissions, distribution systems, and many other types of customer loads that are not purely resistive. <span style="color:red">It is essential to maintain the voltage to deliver active power. </span> <br/>
+<br/>
+Reactive devices will store some energy and return that energy or vice versa. <br/>
+- Reactive current circulates in the electrical circuit. It is used in the AC circuit to magnetize the different elements of transformers and motors. Remember EMF can be induced when the magnetic flux through the coil is changing. <br/>
+- Motors and transformers need the generation of magnetic fields to work. When the reactive power is too low, transformers cannot maintain enough voltage to generate electromagnetic fields, while induction machines cannot magnetize the air-gap for flux to flow. Furthermore, transmission lines cannot maintain voltage levels for active power to flow. <br/>
+- Think about a synchronous generator. The role of a turbine is related to producing real power, while the role of an exciter is related to generating reactive power. The purpose of the exciter is to provide a stationary rotating magnetic field, which induces EMF in the armature coil.
+![2-2](https://kohmbae.github.io/assets/img/Electrical_engineering/Power/2-3.jpg)
+<br/>
+<br/>
+<br/>
+
+## <span style="color:red">Power rating</span>
+---
+The highest power input allowed to flow is the power rating of the material. Heat is one of the main reasons for this limiting.
+
+
+### Reference
+> - https://www.youtube.com/watch?v=SVWKBqauXDg&list=PLIieCbnTDrMimFkdQZ04omx91ePJczW40
+> - https://www.youtube.com/watch?v=0td9Xgiknnc&list=PLIieCbnTDrMimFkdQZ04omx91ePJczW40&index=2
+> - https://www.youtube.com/watch?v=bJ7NoJYISag&list=PLIieCbnTDrMimFkdQZ04omx91ePJczW40&index=3
+> - https://www.youtube.com/watch?v=OZFuyBEVDDE&list=PLIieCbnTDrMimFkdQZ04omx91ePJczW40&index=4
+> - https://www.youtube.com/watch?v=UPnZ3Xec_KQ&list=PLIieCbnTDrMimFkdQZ04omx91ePJczW40&index=5

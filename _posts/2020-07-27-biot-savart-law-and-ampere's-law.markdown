@@ -13,8 +13,6 @@ comments: true
   - [Stokes' theorem, Maxwell's second equation, and current continuity equation](#stokes-theorem,-maxwells-second-equation,-and-current-continuity-equation)
   - [Displacement current](#displacement-current)
 
-
-
 <br/>
 
 ## <span style="color:red">Terms</span>		
