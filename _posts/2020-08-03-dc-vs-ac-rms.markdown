@@ -25,7 +25,9 @@ AC stands for alternating current, and it means that the flow of electrons chang
 
 ## <span style="color:red">RMS, instantaneous, and phasor</span>		
 ---
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwih5JH46LzrAhVSXM0KHQG3A0oQFjABegQIDRAD&url=https%3A%2F%2Fwww.raeng.org.uk%2Fpublications%2Fother%2F8-rms&usg=AOvVaw2kHGkkJI1BfR-r0gBewFND
+<br/>
 RMS = Root Mean Square = Effective value of a varying voltage or current.<br/>
-In detail, RMS value is equivalent to the steady DC value.<br/>
+In detail, RMS value is equivalent to the steady DC value. For instance, the brightness of a lamp connected to a 6V RMS AC supply = the brightness of a lamp connected to a steady 6V DC supply <br/>
 It is good to remember RMS value, instantaneous voltage, and phasor voltage given by a sinusoidal input.      
 ![1-2](https://kohmbae.github.io/assets/img/Electrical_engineering/Power/1-2.jpg)
