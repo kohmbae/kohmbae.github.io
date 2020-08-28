@@ -14,7 +14,9 @@ comments: true
 
 ## <span style="color:red">What is power?</span>		
 ---
-In a circuit, power is the rate at which energy is absorbed or produced within a circuit. The capacity to do work is called energy. The source of energy such as a voltage will deliver power, while the connected load will absorb the delivered power.<br/>
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjLzrOp67zrAhUMO60KHbfTBBYQFjAOegQIAhAB&url=https%3A%2F%2Fwww.electronics-tutorials.ws%2Fdccircuits%2Fdcp_2.html&usg=AOvVaw1NQ6ZloaU_2uH63EmaFMw8 <br/>
+
+The electric power is the rate at which energy is absorbed or produced within a circuit. The capacity to do work is called energy. The source of energy such as a voltage will deliver power, while the connected load will absorb the delivered power.<br/>
 DC power = V * I <br/>
 AC power equations
 ![2-1](https://kohmbae.github.io/assets/img/Electrical_engineering/Power/2-1.jpg)
