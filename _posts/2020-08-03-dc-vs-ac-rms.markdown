@@ -18,6 +18,7 @@ DC stands for direct current, and it means that electrons flow in a single direc
 AC stands for alternating current, and it means that the flow of electrons changes. For a sinusoidal waveform, the polarity changes, when the voltage reaches zero. The change from start to finish is called a cycle. The rate at which cycle repeats is frequency, which uses Hz (cycles per second).
 ![1-1](https://kohmbae.github.io/assets/img/Electrical_engineering/Power/1-1.jpg)
 ![2-1](https://kohmbae.github.io/assets/img/Electrical_engineering/Power/2-1.jpg)
+![1-1](https://kohmbae.github.io/assets/img/Electrical_engineering/Power/1-1.jpg)
 
 <br/>
 <br/>
